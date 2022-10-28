@@ -1,0 +1,52 @@
+{
+  "image": {
+    "seq": 6838,
+    "width": 2358,
+    "height": 2608,
+    "filename": "00006838.png",
+    "original_filename": "chlamydia-pneumonia-L.png",
+    "url": "https://darwin.v7labs.com/api/images/1676596/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676596/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=6838"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Melbourne, Australia",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "Bacterial Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Chlamydophila",
+      "tag": {}
+    },
+    {
+      "name": "Age:50",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:90",
+      "tag": {}
+    }
+  ]
+}

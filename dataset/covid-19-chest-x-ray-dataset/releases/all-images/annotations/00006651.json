@@ -1,0 +1,68 @@
+{
+  "image": {
+    "seq": 6651,
+    "width": 1657,
+    "height": 1530,
+    "filename": "00006651.jpeg",
+    "original_filename": "5083A6B7-8983-472E-A427-570A3E03DDEE.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/1676409/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676409/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=6651"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "CT",
+      "tag": {}
+    },
+    {
+      "name": "location:Italy",
+      "tag": {}
+    },
+    {
+      "name": "View/Axial",
+      "tag": {}
+    },
+    {
+      "name": "pO2_saturation:98",
+      "tag": {}
+    },
+    {
+      "name": "Temperature:37.8",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/N",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "No Pneumonia (healthy)",
+      "tag": {}
+    },
+    {
+      "name": "No Finding",
+      "tag": {}
+    },
+    {
+      "name": "Age:61",
+      "tag": {}
+    },
+    {
+      "name": "Sex/F",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:38",
+      "tag": {}
+    }
+  ]
+}

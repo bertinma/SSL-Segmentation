@@ -1,0 +1,48 @@
+{
+  "image": {
+    "seq": 7017,
+    "width": 2217,
+    "height": 2703,
+    "filename": "00007017.png",
+    "original_filename": "parapneumonic-effusion-1-L.png",
+    "url": "https://darwin.v7labs.com/api/images/1676775/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676775/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=7017"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Australia",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Bacterial Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Streptococcus",
+      "tag": {}
+    },
+    {
+      "name": "Age:45",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:88",
+      "tag": {}
+    }
+  ]
+}

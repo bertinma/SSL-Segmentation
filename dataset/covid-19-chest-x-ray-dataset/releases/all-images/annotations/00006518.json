@@ -1,0 +1,60 @@
+{
+  "image": {
+    "seq": 6518,
+    "width": 603,
+    "height": 768,
+    "filename": "00006518.jpg",
+    "original_filename": "000002-29.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676276/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676276/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=6518"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Rome, Italy",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Temperature:39",
+      "tag": {}
+    },
+    {
+      "name": "ICU_admission/Y",
+      "tag": {}
+    },
+    {
+      "name": "Survival/N",
+      "tag": {}
+    },
+    {
+      "name": "Bacterial Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Legionella",
+      "tag": {}
+    },
+    {
+      "name": "Age:80",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:340",
+      "tag": {}
+    }
+  ]
+}

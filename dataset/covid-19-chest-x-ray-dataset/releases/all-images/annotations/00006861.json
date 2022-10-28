@@ -1,0 +1,48 @@
+{
+  "image": {
+    "seq": 6861,
+    "width": 1079,
+    "height": 1200,
+    "filename": "00006861.png",
+    "original_filename": "covid-19-infection-exclusive-gastrointestinal-symptoms-l.png",
+    "url": "https://darwin.v7labs.com/api/images/1676619/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676619/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=6861"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Spain",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "Age:75",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:98",
+      "tag": {}
+    }
+  ]
+}

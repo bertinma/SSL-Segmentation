@@ -1,0 +1,60 @@
+{
+  "image": {
+    "seq": 6571,
+    "width": 447,
+    "height": 462,
+    "filename": "00006571.jpg",
+    "original_filename": "000009-5.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676329/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676329/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=6571"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Milan, Italy",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/N",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "Bacterial Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Mycoplasma",
+      "tag": {}
+    },
+    {
+      "name": "Age:46",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:282",
+      "tag": {}
+    }
+  ]
+}

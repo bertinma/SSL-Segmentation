@@ -1,0 +1,48 @@
+{
+  "image": {
+    "seq": 6868,
+    "width": 2400,
+    "height": 2338,
+    "filename": "00006868.png",
+    "original_filename": "covid-19-pneumonia-14-L.png",
+    "url": "https://darwin.v7labs.com/api/images/1676626/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676626/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=6868"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Ospedale Santo Spirito. Rome, Italy",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "Age:70",
+      "tag": {}
+    },
+    {
+      "name": "Sex/F",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:23",
+      "tag": {}
+    }
+  ]
+}

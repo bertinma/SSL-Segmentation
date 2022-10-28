@@ -1,0 +1,48 @@
+{
+  "image": {
+    "seq": 7026,
+    "width": 1921,
+    "height": 2610,
+    "filename": "00007026.png",
+    "original_filename": "pneumocystis-jiroveci-pneumonia-4-L.png",
+    "url": "https://darwin.v7labs.com/api/images/1676784/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676784/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=7026"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Melbourne, Australia",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Fungal Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Pneumocystis",
+      "tag": {}
+    },
+    {
+      "name": "Age:70",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:109",
+      "tag": {}
+    }
+  ]
+}

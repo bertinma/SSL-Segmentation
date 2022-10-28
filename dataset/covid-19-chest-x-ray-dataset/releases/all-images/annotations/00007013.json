@@ -1,0 +1,72 @@
+{
+  "image": {
+    "seq": 7013,
+    "width": 672,
+    "height": 841,
+    "filename": "00007013.jpeg",
+    "original_filename": "nejmoa2001191_f5-L.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/1676771/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676771/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=7013"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Snohomish County, Washington, USA",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Needed_supplemental_O2/Y",
+      "tag": {}
+    },
+    {
+      "name": "In_ICU_scan/N",
+      "tag": {}
+    },
+    {
+      "name": "ICU_admission/N",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/N",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "Age:35",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:13",
+      "tag": {}
+    }
+  ]
+}

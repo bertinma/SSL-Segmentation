@@ -1,0 +1,72 @@
+{
+  "image": {
+    "seq": 6853,
+    "width": 1045,
+    "height": 1186,
+    "filename": "00006853.png",
+    "original_filename": "covid-19-caso-91-2-13.png",
+    "url": "https://darwin.v7labs.com/api/images/1676611/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676611/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=6853"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Italy",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Needed_supplemental_O2/N",
+      "tag": {}
+    },
+    {
+      "name": "In_ICU_scan/N",
+      "tag": {}
+    },
+    {
+      "name": "ICU_admission/N",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/N",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "Age:78",
+      "tag": {}
+    },
+    {
+      "name": "Sex/F",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:345",
+      "tag": {}
+    }
+  ]
+}

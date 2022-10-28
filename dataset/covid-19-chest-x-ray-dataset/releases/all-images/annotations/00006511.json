@@ -1,0 +1,72 @@
+{
+  "image": {
+    "seq": 6511,
+    "width": 675,
+    "height": 767,
+    "filename": "00006511.png",
+    "original_filename": "000002-7.png",
+    "url": "https://darwin.v7labs.com/api/images/1676269/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676269/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=6511"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Viborg, Denmark",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Extubated/Y",
+      "tag": {}
+    },
+    {
+      "name": "In_ICU_scan/Y",
+      "tag": {}
+    },
+    {
+      "name": "ICU_admission/Y",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/Y",
+      "tag": {}
+    },
+    {
+      "name": "Survival/N",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Influenza",
+      "tag": {}
+    },
+    {
+      "name": "Age:52",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:286",
+      "tag": {}
+    }
+  ]
+}

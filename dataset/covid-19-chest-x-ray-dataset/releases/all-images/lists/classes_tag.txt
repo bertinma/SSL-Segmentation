@@ -1,0 +1,677 @@
+-21
+19
+59
+ARDS
+Age:12
+Age:21
+Age:22
+Age:23
+Age:25
+Age:27
+Age:28
+Age:29
+Age:30
+Age:31
+Age:33
+Age:34
+Age:35
+Age:36
+Age:37
+Age:38
+Age:39
+Age:40
+Age:41
+Age:42
+Age:43
+Age:44
+Age:45
+Age:46
+Age:47
+Age:48
+Age:49
+Age:50
+Age:51
+Age:52
+Age:53
+Age:54
+Age:55
+Age:56
+Age:57
+Age:58
+Age:59
+Age:60
+Age:61
+Age:62
+Age:63
+Age:64
+Age:65
+Age:66
+Age:67
+Age:68
+Age:69
+Age:70
+Age:71
+Age:72
+Age:73
+Age:74
+Age:75
+Age:76
+Age:77
+Age:78
+Age:80
+Age:81
+Age:82
+Age:83
+Age:84
+Age:85
+Age:87
+Age:88
+Age:93
+Age:94
+Bacterial Pneumonia
+COVID-19
+CT
+Chlamydophila
+E.Coli
+Extubated/N
+Extubated/Y
+Fungal Pneumonia
+ICU_admission/N
+ICU_admission/Y
+In_ICU_scan/N
+In_ICU_scan/Y
+Influenza
+Intubated:Y
+Intubation/N
+Intubation/Y
+Intubation_present/N
+Intubation_present/Y
+Klebsiella
+Legionella
+Leukocyte_count:0.22
+Leukocyte_count:11.2
+Leukocyte_count:2.57
+Leukocyte_count:2.85
+Leukocyte_count:2.88
+Leukocyte_count:3.13
+Leukocyte_count:3.15
+Leukocyte_count:3.98
+Leukocyte_count:5.5
+Leukocyte_count:6.37
+Leukocyte_count:6.4
+Leukocyte_count:6.84
+Leukocyte_count:6.91
+Leukocyte_count:7
+Leukocyte_count:7.4
+Lipoid
+Lipoid pneumonia
+Lymphocyte_count_on_admission:0.4
+Lymphocyte_count_on_admission:0.5
+Lymphocyte_count_on_admission:0.6
+Lymphocyte_count_on_admission:0.63
+Lymphocyte_count_on_admission:0.7
+Lymphocyte_count_on_admission:0.762
+Lymphocyte_count_on_admission:0.8
+Lymphocyte_count_on_admission:0.9
+Lymphocyte_count_on_admission:1
+Lymphocyte_count_on_admission:1.1
+Lymphocyte_count_on_admission:1.2
+Lymphocyte_count_on_admission:1.3
+Lymphocyte_count_on_admission:1.4
+Lymphocyte_count_on_admission:1.6
+Lymphocyte_count_on_admission:1.73
+Lymphocyte_count_on_admission:1.8
+Lymphocyte_count_on_admission:1.9
+Lymphocyte_count_on_admission:10.1
+Lymphocyte_count_on_admission:131
+Lymphocyte_count_on_admission:2.7
+Lymphocyte_count_on_admission:2.8
+Lymphocyte_count_on_admission:2.9
+Mycoplasma
+Needed_supplemental_O2/N
+Needed_supplemental_O2/Y
+Neutrophil_count:0
+Neutrophil_count:1.6
+Neutrophil_count:1.63
+Neutrophil_count:1.92
+Neutrophil_count:10.5
+Neutrophil_count:12
+Neutrophil_count:12.9
+Neutrophil_count:2.2
+Neutrophil_count:2.5
+Neutrophil_count:2.7
+Neutrophil_count:2.8
+Neutrophil_count:2.9
+Neutrophil_count:3.2
+Neutrophil_count:3.8
+Neutrophil_count:3.9
+Neutrophil_count:4
+Neutrophil_count:4.1
+Neutrophil_count:4.5
+Neutrophil_count:5.1
+Neutrophil_count:5.2
+Neutrophil_count:5.55
+Neutrophil_count:6.3
+Neutrophil_count:6.4
+Neutrophil_count:6.8
+Neutrophil_count:7.3
+Neutrophil_count:8
+No Finding
+No Pneumonia (healthy)
+PatientID:10
+PatientID:100
+PatientID:101
+PatientID:102
+PatientID:103
+PatientID:104
+PatientID:105
+PatientID:106
+PatientID:107
+PatientID:108
+PatientID:109
+PatientID:11
+PatientID:110
+PatientID:111
+PatientID:112
+PatientID:113
+PatientID:114
+PatientID:115
+PatientID:116
+PatientID:117
+PatientID:118
+PatientID:12
+PatientID:13
+PatientID:132
+PatientID:137
+PatientID:138
+PatientID:139
+PatientID:14
+PatientID:140
+PatientID:141
+PatientID:142
+PatientID:143
+PatientID:144
+PatientID:145
+PatientID:146
+PatientID:147
+PatientID:148
+PatientID:149
+PatientID:15
+PatientID:150
+PatientID:151
+PatientID:152
+PatientID:153
+PatientID:154
+PatientID:155
+PatientID:156
+PatientID:157
+PatientID:158
+PatientID:159
+PatientID:16
+PatientID:160
+PatientID:161
+PatientID:162
+PatientID:163
+PatientID:164
+PatientID:165
+PatientID:166
+PatientID:167
+PatientID:168
+PatientID:169
+PatientID:17
+PatientID:170
+PatientID:171
+PatientID:172
+PatientID:173
+PatientID:174
+PatientID:175
+PatientID:176
+PatientID:177
+PatientID:178
+PatientID:179
+PatientID:18
+PatientID:180
+PatientID:181
+PatientID:182
+PatientID:183
+PatientID:184
+PatientID:185
+PatientID:187
+PatientID:188
+PatientID:189
+PatientID:19
+PatientID:190
+PatientID:191
+PatientID:192
+PatientID:193
+PatientID:194
+PatientID:195
+PatientID:196
+PatientID:197
+PatientID:198
+PatientID:199
+PatientID:2
+PatientID:20
+PatientID:200
+PatientID:201
+PatientID:202
+PatientID:203
+PatientID:204
+PatientID:205
+PatientID:206
+PatientID:207
+PatientID:208
+PatientID:209
+PatientID:21
+PatientID:210
+PatientID:211
+PatientID:212
+PatientID:213
+PatientID:214
+PatientID:215
+PatientID:216
+PatientID:217
+PatientID:218
+PatientID:219
+PatientID:22
+PatientID:221
+PatientID:222
+PatientID:223
+PatientID:224
+PatientID:225
+PatientID:226
+PatientID:227
+PatientID:228
+PatientID:229
+PatientID:23
+PatientID:230
+PatientID:232
+PatientID:233
+PatientID:234
+PatientID:235
+PatientID:236
+PatientID:237
+PatientID:239
+PatientID:24
+PatientID:240
+PatientID:241
+PatientID:242
+PatientID:243
+PatientID:244
+PatientID:245
+PatientID:246
+PatientID:247
+PatientID:248
+PatientID:249
+PatientID:25
+PatientID:250
+PatientID:251
+PatientID:252
+PatientID:253
+PatientID:254
+PatientID:255
+PatientID:256
+PatientID:257
+PatientID:258
+PatientID:259
+PatientID:26
+PatientID:261
+PatientID:263
+PatientID:264
+PatientID:266
+PatientID:267
+PatientID:268
+PatientID:269
+PatientID:27
+PatientID:270
+PatientID:271
+PatientID:272
+PatientID:273
+PatientID:276
+PatientID:277
+PatientID:278
+PatientID:279
+PatientID:28
+PatientID:281
+PatientID:282
+PatientID:283
+PatientID:284
+PatientID:286
+PatientID:288
+PatientID:289
+PatientID:29
+PatientID:290
+PatientID:291
+PatientID:292
+PatientID:293
+PatientID:294
+PatientID:295
+PatientID:296
+PatientID:297
+PatientID:298
+PatientID:299
+PatientID:3
+PatientID:30
+PatientID:300
+PatientID:301
+PatientID:302
+PatientID:303
+PatientID:304
+PatientID:305
+PatientID:306
+PatientID:307
+PatientID:308
+PatientID:309
+PatientID:31
+PatientID:310
+PatientID:311a
+PatientID:311b
+PatientID:312
+PatientID:313a
+PatientID:313b
+PatientID:314
+PatientID:315
+PatientID:316
+PatientID:317
+PatientID:318
+PatientID:319a
+PatientID:319b
+PatientID:32
+PatientID:320
+PatientID:321
+PatientID:322
+PatientID:323
+PatientID:324a
+PatientID:324b
+PatientID:325
+PatientID:326a
+PatientID:326b
+PatientID:329
+PatientID:33
+PatientID:330
+PatientID:331a
+PatientID:331b
+PatientID:332
+PatientID:333
+PatientID:334
+PatientID:335
+PatientID:336
+PatientID:337
+PatientID:338
+PatientID:339
+PatientID:34
+PatientID:340
+PatientID:341
+PatientID:342
+PatientID:343
+PatientID:344
+PatientID:345
+PatientID:346
+PatientID:347
+PatientID:348
+PatientID:349
+PatientID:35
+PatientID:36
+PatientID:37
+PatientID:38
+PatientID:39
+PatientID:4
+PatientID:40
+PatientID:41
+PatientID:42
+PatientID:43
+PatientID:44
+PatientID:45
+PatientID:46
+PatientID:47
+PatientID:48
+PatientID:49
+PatientID:50
+PatientID:51
+PatientID:52
+PatientID:53
+PatientID:54
+PatientID:55
+PatientID:56
+PatientID:57
+PatientID:58
+PatientID:59
+PatientID:6
+PatientID:60
+PatientID:61
+PatientID:62
+PatientID:63
+PatientID:64
+PatientID:65
+PatientID:66
+PatientID:67
+PatientID:68
+PatientID:69
+PatientID:7
+PatientID:70
+PatientID:71
+PatientID:72
+PatientID:73
+PatientID:74
+PatientID:75
+PatientID:76
+PatientID:77
+PatientID:78
+PatientID:79
+PatientID:8
+PatientID:80
+PatientID:81
+PatientID:82
+PatientID:83
+PatientID:84
+PatientID:85
+PatientID:86
+PatientID:87
+PatientID:88
+PatientID:89
+PatientID:9
+PatientID:90
+PatientID:91
+PatientID:92
+PatientID:93
+PatientID:94
+PatientID:95
+PatientID:96
+PatientID:97
+PatientID:98
+PatientID:99
+Pneumocystis
+Pneumonia
+SARS
+Sex/F
+Sex/M
+Streptococcus
+Survival/N
+Survival/Y
+Temperature:36
+Temperature:36.1
+Temperature:36.4
+Temperature:36.5
+Temperature:36.7
+Temperature:36.8
+Temperature:36.9
+Temperature:37
+Temperature:37.1
+Temperature:37.2
+Temperature:37.3
+Temperature:37.5
+Temperature:37.6
+Temperature:37.7
+Temperature:37.8
+Temperature:37.9
+Temperature:38
+Temperature:38.1
+Temperature:38.2
+Temperature:38.3
+Temperature:38.5
+Temperature:38.6
+Temperature:38.9
+Temperature:39
+Temperature:39.1
+Temperature:39.4
+Temperature:39.6
+Temperature:40
+Temperature:95
+Undefined Pneumonia
+Varicella
+View/AP
+View/AP_Supine
+View/Axial
+View/Coronal
+View/Lateral
+View/PA
+Viral Pneumonia
+X-ray
+age:40-49
+age:70-79
+location:Argentina
+location:Australia
+location:Barcelona, Spain
+location:Belgium
+location:Birmingham, United Kingdom
+location:Boca Raton, Florida , USA
+location:Bozen, Italy
+location:Brescia, Italy
+location:Cairo, Egypt
+location:Canterbury, United Kingdom
+location:Centro Hospitalar Universit�rio do Porto, Porto, Portugal
+location:Centro Médico Imbanaco, Cali, Valle del Cauca, Colombia
+location:Changhua Christian Hospital, Changhua City, Taiwan
+location:Chicago, USA
+location:China
+location:Cho Ray Hospital, Ho Chi Minh City, Vietnam
+location:Civili Hospital, Vigevano, Italy
+location:Cleveland, Ohio, USA
+location:Complejo Hospitalario de Navarra, Pamplona, Spain
+location:Edinburgh, United Kingdom
+location:Eskisehir, Turkey
+location:Essen, Germany
+location:Evangelismos General Hospital of Athens, Athens, Greece
+location:Florida, USA
+location:GZA Sint-Augustinus, Antwerp, Belgium
+location:Hannover Medical School, Hannover, Germany
+location:Hong Kong
+location:Hospital Hollabrunn, Hollabrunn, Austria
+location:Hospital Universitari Vall d'Hebr�n, Barcelona, Spain
+location:Hospital Universitario Doctor Peset, Valencia, Spain
+location:Hospital Universitario Severo Ochoa, Madrid, Spain
+location:Hospital Universitario, Madrid, Spain
+location:Hospital de S�o Jos�, Portugal
+location:Hospital of Wuhan University, Wuhan, China
+location:Houston, USA
+location:Humanitas Clinical and Research Hospital, Rozzano, Milan, Italy
+location:Hungary
+location:Italy
+location:Jiangxi Provincial People's Hospital, Nanchang, China
+location:Jinling Hospital, Medical School of Nanjing University, Nanjing, Jiangsu, China
+location:Jonkoping, Sweden
+location:Laniado Hospital, Netanya, Israel
+location:Little Rock, Arkansas, USA
+location:London, United Kingdom
+location:Macao, China
+location:Malta
+location:Melbourne, Australia
+location:Milan, Italy
+location:Modena, Italy
+location:Moscow, Russia
+location:Mount Sinai Hospital, Toronto, Ontario, Canada
+location:Myongji Hospital, Goyang, South Korea
+location:Nagoya, Japan
+location:New Brunswick, New Jersey, USA
+location:New York, USA
+location:North Derbyshire, United Kingdom
+location:Nottingham, United Kingdom
+location:Orange, California, USA
+location:Ospedale Santo Spirito. Rome, Italy
+location:Ospedale di Cattinara, Trieste, Italy
+location:Padova, Italy
+location:Pakistan
+location:Peshawar, Pakistan
+location:Philadelphia, Pennsylvania, USA
+location:Portugal
+location:Prince of Wales Hospital, Chinese University of Hong Kong, China
+location:Riccione, Italy
+location:Rome, Italy
+location:Royal Brisbane and Women's Hospital, Brisbane, Australia
+location:San Lazaro Hospital, Manila, Philippines
+location:Saudi Arabia
+location:Seattle, USA
+location:Shanghai Public Health Clinical Center, Shanghai, China
+location:Shanghai, China
+location:Sichuan Provincial People�s Hospital, Chengdu, China
+location:Singapore
+location:Snohomish County, Washington, USA
+location:South Korea
+location:Spain
+location:Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada
+location:Tabriz, Iran
+location:Taichung, Taiwan
+location:Taiwan
+location:Taoyuan General Hospital, Taoyuan, Taiwan
+location:Tehran, Iran
+location:Teruel, Spain
+location:Thailand
+location:Thanh H�a, Vietnam
+location:The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China
+location:The First Hospital of Lanzhou University, Lanzhou, China
+location:The Royal Melbourne Hospital, Melbourne, Australia
+location:Tokyo, Japan
+location:Tongji Medical College, Wuhan, Hubei Province, China
+location:Turin, Italy
+location:Turkey
+location:United Kingdom
+location:University of California Irvine, Orange, California, USA
+location:Valencia, Spain
+location:Viborg, Denmark
+location:Vivantes Klinikum Neuk�lln, Berlin, Germany
+location:Wuhan Jinyintan Hospital, Wuhan, Hubei Province, China
+location:Wuhan, China
+location:Zahedan, Iran
+location:Zigong, China
+outcome:recovered 1-3 days
+pO2_saturation:100
+pO2_saturation:105
+pO2_saturation:130
+pO2_saturation:165
+pO2_saturation:20
+pO2_saturation:25
+pO2_saturation:30
+pO2_saturation:340
+pO2_saturation:35
+pO2_saturation:40
+pO2_saturation:45
+pO2_saturation:50
+pO2_saturation:55
+pO2_saturation:60
+pO2_saturation:61.3
+pO2_saturation:65
+pO2_saturation:66
+pO2_saturation:67
+pO2_saturation:70
+pO2_saturation:75
+pO2_saturation:79
+pO2_saturation:80
+pO2_saturation:82
+pO2_saturation:84
+pO2_saturation:85
+pO2_saturation:87
+pO2_saturation:88
+pO2_saturation:89
+pO2_saturation:90
+pO2_saturation:91
+pO2_saturation:92
+pO2_saturation:93
+pO2_saturation:95
+pO2_saturation:96
+pO2_saturation:97
+pO2_saturation:98
+patientID:76
+patientID:77
+presents: odynophagia
+presents:fever
+view:PA

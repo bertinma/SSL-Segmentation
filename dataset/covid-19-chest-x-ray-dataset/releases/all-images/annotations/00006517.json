@@ -1,0 +1,68 @@
+{
+  "image": {
+    "seq": 6517,
+    "width": 346,
+    "height": 454,
+    "filename": "00006517.jpg",
+    "original_filename": "000002-19-b.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676275/original?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676275/thumbnail?token=e13d186b-43e6-417a-bcd5-c4215123f2c3",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=6517"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotated": true,
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Valencia, Spain",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "In_ICU_scan/N",
+      "tag": {}
+    },
+    {
+      "name": "ICU_admission/N",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/N",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "Lipoid pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Lipoid",
+      "tag": {}
+    },
+    {
+      "name": "Age:76",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:283",
+      "tag": {}
+    }
+  ]
+}
